@@ -1,2 +1,2 @@
-# Pyfocals-
- Face tracking software that translates facial movements into key presses 
+# PyFocals
+Face-tracking solution written in Python using OpenCV and Dlib
